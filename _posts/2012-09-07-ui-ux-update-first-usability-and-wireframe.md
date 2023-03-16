@@ -59,9 +59,9 @@ Let us know in the comments below!
 [![Save and Continue][5]{.thumb}][6]
 *Click / tap to view full wireframe*
 </div>
-[1]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick-thumb.jpeg "Participant, Nick, takes a look at the wireframe with Danny"
-[2]: http://presidential-innovation-fellows.github.com/mygov/images/content/usability-nick.jpeg "Participant, Nick, takes a look at the wireframe with Danny"
-[3]: http://presidential-innovation-fellows.github.com/mygov/images/content/profile-thumb.png "Profile"
-[4]: http://presidential-innovation-fellows.github.com/mygov/images/content/profile.png "Profile"
-[5]: http://presidential-innovation-fellows.github.com/mygov/images/content/save-and-continue-thumb.png "Save and Continue"
-[6]: http://presidential-innovation-fellows.github.com/mygov/images/content/save-and-continue.png "Save and Continue"
+[1]: {{ site.baseurl }}/images/content/usability-nick-thumb.jpeg "Participant, Nick, takes a look at the wireframe with Danny"
+[2]: {{ site.baseurl }}/images/content/usability-nick.jpeg "Participant, Nick, takes a look at the wireframe with Danny"
+[3]: {{ site.baseurl }}/images/content/profile-thumb.png "Profile"
+[4]: {{ site.baseurl }}/images/content/profile.png "Profile"
+[5]: {{ site.baseurl }}/images/content/save-and-continue-thumb.png "Save and Continue"
+[6]: {{ site.baseurl }}/images/content/save-and-continue.png "Save and Continue"

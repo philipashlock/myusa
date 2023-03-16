@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Add an Image</title>
-    <link rel="stylesheet" href="http://presidential-innovation-fellows.github.com/mygov/styles/style.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/styles/style.css">
     <style>
         #output {width: 400px; height: 300px; margin-right: 50px; }
         #left { float: left; }
@@ -56,7 +56,7 @@
 
 <div class="image alignright" markdown="1">
 
-![<%= alt %>](http://presidential-innovation-fellows.github.com/mygov/images/content/<%= name %>)
+![<%= alt %>]({{ site.baseurl }}/images/content/<%= name %>)
  
 <div class="caption" markdown="1">
 *Photo Credit: [<%= credit %>](<%= credit_link %>)*{.credit}

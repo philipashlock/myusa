@@ -15,10 +15,10 @@ published: true
 ---
 
 <div class="thumbright">
-    <img src="http://presidential-innovation-fellows.github.com/mygov/images/content/open-source-all-the-things.png" alt="Open Source *ALL* the things." />
+    <img src="{{ site.baseurl }}/images/content/open-source-all-the-things.png" alt="Open Source *ALL* the things." />
 </div>
 
-When we first set out to reimagine the relationship between government and the people, our goal was not simply to build the next generation of citizen-facing tools and services, but to also fundamentally change how these tools are built. We started by [looking closely at at our own process](http://presidential-innovation-fellows.github.com/mygov/2012/12/27/We-believe-Project-MyGov-principles/) and quickly [committed to architechting an open platform](http://presidential-innovation-fellows.github.com/mygov/2013/01/09/building-mygov-open-platform-pt1/) from day one.
+When we first set out to reimagine the relationship between government and the people, our goal was not simply to build the next generation of citizen-facing tools and services, but to also fundamentally change how these tools are built. We started by [looking closely at at our own process]({{ site.baseurl }}/2012/12/27/We-believe-Project-MyGov-principles/) and quickly [committed to architechting an open platform]({{ site.baseurl }}/2013/01/09/building-mygov-open-platform-pt1/) from day one.
 
 Today, MyGov would not be possible if it were not for [countless](http://rubyonrails.org/) [open](http://jekyllrb.com/) [source](http://backbonejs.org/) [projects](http://coffeescript.org/), from our own internal tools to the very servers that power MyGov itself. For those unfamiliar with the term, [open source software](http://en.wikipedia.org/wiki/Open_source_software) is simply software for which the underlying, human-readable instructions are made publicly available for others to use, re-use, and submit improvements. Think about it as analagous to the "give a penny take a penny" tray at your local convenience store, or [asking a neighbor if you can borrow a screwdriver](http://www.whitehouse.gov/blog/2012/11/20/open-source-and-power-community).
 

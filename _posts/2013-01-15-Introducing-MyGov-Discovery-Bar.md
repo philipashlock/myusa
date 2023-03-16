@@ -17,8 +17,8 @@ published: true
 *This is the first in a series of posts introducing each of the products we've been working on as part of Project MyGov.*
 
 <div class="thumbright">
-  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/bar1.png">
-    <img src="http://presidential-innovation-fellows.github.com/mygov/images/content/bar1-thumb.png" alt="MyGov Discovery Bar shown seamlessly integrating on USA.gov" />
+  <a href="{{ site.baseurl }}/images/content/bar1.png">
+    <img src="{{ site.baseurl }}/images/content/bar1-thumb.png" alt="MyGov Discovery Bar shown seamlessly integrating on USA.gov" />
   </a>
 <p class="caption">MyGov Discovery Bar shown seamlessly integrating on USA.gov</p>
 </div>
@@ -34,8 +34,8 @@ To do this, we've built the Discovery Bar to unobtrusively slide into view as yo
 We also want to help improve your overall experience when visiting government websites. If you expand the bar, a few options present themselves. You can view tags associated with the page you're looking at.  You can even add or edit tags to help make our service better. You can provide feedback to the government on the page you're viewing, and help us figure out which are the most helpful of our pages. And if you're just not finding what you're looking for, you can do a search across all the government web sites.
 
 <div style="text-align:center; width:100%;">
-  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/bar2.png">
-  <img src="http://presidential-innovation-fellows.github.com/mygov/images/content/bar2-thumb.png" alt="All right Mr. DeMille, I'm ready for my close-up." />  
+  <a href="{{ site.baseurl }}/images/content/bar2.png">
+  <img src="{{ site.baseurl }}/images/content/bar2-thumb.png" alt="All right Mr. DeMille, I'm ready for my close-up." />  
   </a>
   <p class="caption">All right Mr. DeMille, I'm ready for my close-up.</p>
 </div>

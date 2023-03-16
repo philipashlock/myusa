@@ -15,7 +15,7 @@ tags:
 published: true
 ---
 
-Last week we announced the [MyGov Discovery Bar](http://presidential-innovation-fellows.github.com/mygov/2013/01/15/Introducing-MyGov-Discovery-Bar/). This week we'd like to dive a bit deeper by taking a look at the API that powers it, with the hope that developers within the open-government community can help make it better.
+Last week we announced the [MyGov Discovery Bar]({{ site.baseurl }}/2013/01/15/Introducing-MyGov-Discovery-Bar/). This week we'd like to dive a bit deeper by taking a look at the API that powers it, with the hope that developers within the open-government community can help make it better.
 
 Thy Discovery API exposes all the information that's normally available via the MyGov Discovery Bar ([code](https://github.com/GSA-OCSIT/mygov-bar)) in an open, machine-readable format. In fact, the Discovery Bar itself consumes the API — *we eat our own dog food*. Why would we do this? Two reasons: first, exposing an API to collect and retrieve information at the outset and then going back to build the layer to display it forces us to separate data from presentation and allows the application to be more flexible.
 

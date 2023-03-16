@@ -12,7 +12,7 @@ published: true
 ---
 
 <div class="alignright" markdown="1">
-  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/robot-JohnGreenaway-thumb.jpg" alt="Robot"></a>
+  <a href="{{ site.baseurl }}/images/content/robot-JohnGreenaway.jpg"><img src="{{ site.baseurl }}/images/content/robot-JohnGreenaway-thumb.jpg" alt="Robot"></a>
   <br />
   Humans aren't robots. Why do we talk to them like they are? Photo: [JohnGreenaway](http://www.flickr.com/photos/johngreenaway/3356358479)
 </div>
@@ -38,7 +38,7 @@ One way to address this issue before someone even sees this error is to have an 
 Each of these things is an experience, an opportunity to delight people.
 
 <div class="alignright" markdown="1">
-  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier.jpg"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Hollywood-Tower-of-Terror-Loren-Javier-thumb.jpg" alt="Tower of Terror Loby"></a>
+  <a href="{{ site.baseurl }}/images/content/Hollywood-Tower-of-Terror-Loren-Javier.jpg"><img src="{{ site.baseurl }}/images/content/Hollywood-Tower-of-Terror-Loren-Javier-thumb.jpg" alt="Tower of Terror Loby"></a>
   <br />
   Hollywood Tower of Terror lobby at Disney California Adventure. Photo: [Loren Javier](http://www.flickr.com/photos/lorenjavier/6661295397)
 </div>
@@ -50,7 +50,7 @@ Taking that holistic view is how we approached MyGov.
 ### The research behind the MyGov experience persona
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
-  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias.JPG"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Library-of-Congress-Kara-DeFrias-thumb.jpg" alt="Library of Congress"></a>
+  <a href="{{ site.baseurl }}/images/content/Library-of-Congress-Kara-DeFrias.JPG"><img src="{{ site.baseurl }}/images/content/Library-of-Congress-Kara-DeFrias-thumb.jpg" alt="Library of Congress"></a>
   <br />
   Caption: Beautiful day for research at Library of Congress. Photo: [source](https://twitter.com/californiakara)
 </div>
@@ -66,7 +66,7 @@ There was a bit of an a-ha moment when looking at these posters: back then, they
 ### MyGov experience persona highlights
 
 <div class="alignright" style="text-align:right; font-size: 12px;" markdown="1">
-  <a href="http://presidential-innovation-fellows.github.com/mygov/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias.JPG"><img src="http://presidential-innovation-fellows.github.com/mygov/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias-thumb.jpg" alt="Tan Docs"></a>
+  <a href="{{ site.baseurl }}/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias.JPG"><img src="{{ site.baseurl }}/images/content/Democratic-Ticket-Colony-of-New-Hampshire-Kara-DeFrias-thumb.jpg" alt="Tan Docs"></a>
   <br />
   An original Democratic Party ticket and Colony of New Hampshire broadsheet. Photo: [source](https://twitter.com/californiakara)
 </div>
@@ -95,4 +95,4 @@ We also consciously say person instead of citizen whenever we can, because we re
 
 We're hoping MyGov helps you navigate your way around government - a sherpa, of sorts - and helps you do what you came to do. But in a friendly, Ellie-like way, and not like a robot.
 
-View the full [MyGov Experience Persona](http://presidential-innovation-fellows.github.com/mygov/experience-persona/).
+View the full [MyGov Experience Persona]({{ site.baseurl }}/experience-persona/).

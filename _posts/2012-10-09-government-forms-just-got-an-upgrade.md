@@ -12,7 +12,7 @@ published: true
 ---
 
 <div class="alignright" style="text-align:right; font-size: 12px;">
-  <img src="http://presidential-innovation-fellows.github.com/mygov/images/content/passport.jpg" alt="Government Form">
+  <img src="{{ site.baseurl }}/images/content/passport.jpg" alt="Government Form">
   <br/>
   Photo Credit: <a href="http://www.flickr.com/photos/blmurch/4262786267/">blmurch</a>
 </div>
